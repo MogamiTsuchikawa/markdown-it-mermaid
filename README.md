@@ -67,7 +67,7 @@ yarn test
 ### Distribution
 
 ```
-yarn release && npm publish
+yarn release && npm publish --access=public
 ```
 
 
